@@ -1,5 +1,9 @@
+import random
+
 def get_random_word():
-    return "pizza"
+    words = ["pizza","cheese","apples"]
+    random_word = words[random.randint(0, len(words) - 1)]
+    return random_word
 
 def play_word_games():
     strikes = 0
