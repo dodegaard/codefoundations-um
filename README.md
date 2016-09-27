@@ -7,6 +7,8 @@ Great tutorial here from Atlassian https://www.atlassian.com/git/tutorials/
 
 Git Cheat Sheet from Github https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf
 
+Illustration used in class http://www.amygori.com/gdi-rdu-git-github/images/basic-remote-workflow.png
+
 ## Python ##
 
 ### Installation ###
